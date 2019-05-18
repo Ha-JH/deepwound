@@ -1,0 +1,8 @@
+#MNIST_PATH = "/home/john/datasets/mnist"
+#CIFAR10_PATH = "/home/john/datasets/cifar10"
+#CIFAR100_PATH = "/home/john/datasets/cifar100"
+MNIST_PATH = "/home/hajh/datasets/mnist"
+CIFAR10_PATH = "/home/hajh/datasets/cifar10"
+CIFAR10_TF_PATH = "/home/hajh/datasets/cifar10_tfrecords"
+CIFAR100_PATH =  "/home/hajh/datasets/cifar100"
+RESULTS_PATH = "/home/hajh/results/"
